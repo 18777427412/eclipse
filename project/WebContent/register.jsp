@@ -4,9 +4,10 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Insert title here</title>
+<title>hello</title>
 </head>
 <body>
+
         <form action=show.jsp>
         	用户名:<input type="text" name="uname"  /><br />
         	密码:<input type="password" name="upwd" /><br />
