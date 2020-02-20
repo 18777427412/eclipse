@@ -4,7 +4,9 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>helloxxdd阿三发射点VS的v</title>
+
+<title>hello</title>
+
 </head>
 <body>
 	<%
