@@ -9,7 +9,7 @@
 <body>
 
         <form action=show.jsp>
-        	用户名:<input type="text" name="uname"  /><br />
+        	用户名是:<input type="text" name="uname"  /><br />
         	密码:<input type="password" name="upwd" /><br />
         	年龄: <input type="text" name="uage" /><br />
         	爱好<br />
